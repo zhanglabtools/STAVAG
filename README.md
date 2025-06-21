@@ -11,7 +11,7 @@ It is recommended to use a Python version  `3.9`.
 ```
 conda create -n STAVAG python==3.9
 ```
-* install STAVAG from shell:
+* activate STAVAG from shell:
 ```
 conda activate STAVAG
 ```
