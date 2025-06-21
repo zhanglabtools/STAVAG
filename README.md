@@ -22,7 +22,7 @@ scanpy>=1.9.1
 ```
 
 ## Tutorials
-The following are detailed tutorials. Move STAVAG into the Tutorials folder, and you’ll be able to run all the tutorials. All tutorials were ran on a 12600kf cpu.
+The following are detailed tutorials. Move STAVAG into the Tutorials folder, and you’ll be able to run all the tutorials. All tutorials were ran on an intel 12600kf cpu and validated on an AMD 3900X cpu.
 
 1. [Identify DVGs on 2D cSCC data](./Tutorials/Case_I_STAVAG_on_2D_cSCC_data.ipynb).
 
