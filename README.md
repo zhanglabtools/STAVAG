@@ -16,9 +16,10 @@ conda create -n STAVAG python==3.9
 conda activate STAVAG
 ```
 
-* the important Python packages used to run the model are as follows: 
+* you can install the important Python packages used to run the model are as follows: 
 ```
-scanpy>=1.9.1
+pip install scanpy[leiden]
+pip install lightgbm
 ```
 
 ## Tutorials
