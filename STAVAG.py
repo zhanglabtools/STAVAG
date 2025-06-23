@@ -182,7 +182,7 @@ def TVG_detection(adata, coords, exact_pvalue=False):
 }
 	lgb_model = lgb.LGBMRegressor(**params)
 	if n_dim != 1:
-		raise ValueError("n_dim must be at least 1.")
+		raise ValueError("n_dim must be 1.")
 	else:
 		coord_dict_raw = {}
 		coord_dict_rand = {}
