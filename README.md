@@ -20,6 +20,10 @@ conda activate STAVAG
 ```
 pip install scanpy[leiden]
 pip install lightgbm
+pip install numpy
+pip install matplotlib
+pip install scikit-learn
+pip install scipy
 ```
 
 ## Tutorials
