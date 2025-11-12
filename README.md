@@ -26,6 +26,11 @@ pip install scikit-learn
 pip install scipy
 ```
 
+* now you can install the STAVAG Python package as follows:
+```
+pip install STAVAG
+```
+
 ## Tutorials
 The following are detailed tutorials. Move STAVAG.py into the Tutorials folder, and you’ll be able to run all the tutorials. All tutorials were ran on an intel 12600kf cpu and validated on an AMD 3900X cpu.
 
