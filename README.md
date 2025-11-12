@@ -32,7 +32,7 @@ pip install STAVAG
 ```
 
 ## Tutorials
-The following are detailed tutorials. Move STAVAG.py into the Tutorials folder, and you’ll be able to run all the tutorials. All tutorials were ran on an intel 12600kf cpu and validated on an AMD 3900X cpu.
+The following are detailed tutorials. All tutorials were ran on an intel 12600kf cpu.
 
 1. [Identify DVGs on 2D cSCC data](./Tutorials/Case_I_STAVAG_on_2D_cSCC_data.ipynb).
 
