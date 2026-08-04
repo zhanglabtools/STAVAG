@@ -21,13 +21,13 @@ conda activate STAVAG
 ```
 pip install scanpy[leiden]
 pip install lightgbm
-pip install numpy
-pip install matplotlib
 pip install scikit-learn
 pip install scipy
 ```
+The model was developed and tested using Scanpy (version 1.12), LightGBM (version 4.6.0), scikit-learn (version 1.7.2), and SciPy (version 1.15.3). The code is not strictly dependent on these exact package versions, and minor version variations are not expected to substantially affect the functionality or results of STAVAG.
 
 * now you can install the STAVAG Python package as follows:
 ```
 pip install STAVAG
 ```
+The entire installation process should be completed within 5 minutes on a standard desktop computer.
